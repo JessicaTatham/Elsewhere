@@ -1,5 +1,5 @@
 # Elsewhere
-## before you go somewhere, go *Elsewhere*.
+## Before you go somewhere, go *Elsewhere*.
 
 Visit the app at: http://elsewhere.herokuapp.com
 
